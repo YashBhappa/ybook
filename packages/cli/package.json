@@ -1,5 +1,5 @@
 {
-	"name": "y-note",
+	"name": "ybook",
 	"version": "1.0.0",
 	"description": "",
 	"bin": "dist/index.js",
@@ -17,10 +17,10 @@
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
-		"@ynote/local-client": "^1.0.0"
+		"@ybook/local-client": "^1.0.0"
 	},
 	"devDependencies": {
-		"@ynote/local-api": "^1.0.0",
+		"@ybook/local-api": "^1.0.0",
 		"@types/node": "^14.14.22",
 		"commander": "^7.0.0",
 		"esbuild": "0.8.26",
